@@ -365,6 +365,7 @@ reinterpret_cast
 
 
 46. What is the significance of the scope resolution operator (::)?
+
 It accesses global variables, static class members, and defines functions outside class:
 
 cpp
@@ -373,6 +374,7 @@ void MyClass::func() { ... }
 
 
 47. What is a namespace? How is it related to OOP?
+
 A namespace is a logical grouping to avoid name conflicts, especially in large OOP projects.
 
 cpp
@@ -382,12 +384,15 @@ namespace myspace {
 
 
 48. What is method hiding?
+
 If a derived class function has the same name as base but isn’t declared virtual, the base function is hidden—not overridden.
 
 
 49. Explain hierarchy of exception classes in C++.
+
 Rooted at std::exception, which is the base class. Other standard exceptions derive from it (e.g., std::runtime_error), enabling OOP error handling.
 
 
 50. Should destructors be virtual in base classes?
+
 Yes, to ensure proper resource cleanup in polymorphic class hierarchies when deleting derived objects via base pointers.
