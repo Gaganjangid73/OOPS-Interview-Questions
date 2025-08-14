@@ -124,6 +124,7 @@ class Demo {
 
 
 11. What is a destructor?
+
 A destructor is a special function called when an object goes out of scope. Used for cleanup. In C++, it’s defined as ~ClassName().
 
 
