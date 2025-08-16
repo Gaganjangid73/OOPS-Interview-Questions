@@ -133,10 +133,11 @@ In a struct, members are public by default; in a class, they are private. Apart 
 
 
 13. What is a virtual function?
+ 
 It’s a function in a base class declared with the virtual keyword, meant to be overridden in derived classes. Enables dynamic dispatch.
 
 
-14. What is a pure virtual function and abstract class?
+15. What is a pure virtual function and abstract class?
 A function with = 0:
 
 cpp
