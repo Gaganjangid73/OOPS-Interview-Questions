@@ -17,6 +17,7 @@ Inheritance: Allows new classes to use properties and methods of existing ones.
 Polymorphism: Same function name behaves differently on different classes.
 
 3. What’s the difference between a class and an object?
+   
 A class is a user-defined template for creating objects, containing attributes and methods.
 An object is an instance of a class.
 
