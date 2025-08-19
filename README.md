@@ -29,6 +29,7 @@ class Car { // class
 Car myCar; // object
 
 4. What is encapsulation? Give an example in C++.
+
 Encapsulation is the technique of hiding the internal state of an object and requiring all interaction to be performed through an object’s methods.
 
 cpp
