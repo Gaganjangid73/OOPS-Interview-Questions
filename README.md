@@ -54,6 +54,7 @@ class Shape {
 };
 
 6. What is inheritance? Types in C++?
+
 Inheritance lets a class acquire properties and behaviors from another class. C++ supports:
 
 Single (one base, one derived)
