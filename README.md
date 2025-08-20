@@ -72,7 +72,7 @@ class Animal { };
 class Dog : public Animal { }; // Single inheritance
 
 7. What is polymorphism? Explain its types.
-8. 
+
 Polymorphism means “many forms.” C++ supports:
 
 Compile-time (static): via function or operator overloading.
@@ -94,6 +94,7 @@ class Derived : public Base {
 
 
 8. What are access specifiers?
+
 Access specifiers control visibility/scoping:
 
 private: accessible only within the class.
