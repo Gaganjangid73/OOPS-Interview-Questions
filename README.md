@@ -72,6 +72,7 @@ class Animal { };
 class Dog : public Animal { }; // Single inheritance
 
 7. What is polymorphism? Explain its types.
+8. 
 Polymorphism means “many forms.” C++ supports:
 
 Compile-time (static): via function or operator overloading.
