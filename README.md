@@ -134,10 +134,11 @@ A destructor is a special function called when an object goes out of scope. Used
 
 
 12. What is the difference between struct and class?
+ 
 In a struct, members are public by default; in a class, they are private. Apart from this, both can have functions and support most features.
 
 
-13. What is a virtual function?
+14. What is a virtual function?
  
 It’s a function in a base class declared with the virtual keyword, meant to be overridden in derived classes. Enables dynamic dispatch.
 
