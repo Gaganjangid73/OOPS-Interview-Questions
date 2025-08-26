@@ -112,6 +112,7 @@ Overriding: Redefining a base class’s virtual function in a derived class with
 
 
 10. What is a constructor? Types?
+
 A constructor is a special function called when an object is created.
 
 Default constructor: No params.
