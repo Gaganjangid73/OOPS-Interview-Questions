@@ -105,6 +105,7 @@ public: accessible everywhere.
 
 
 9. Explain function overloading and overriding.
+   
 Overloading: Functions with the same name but different parameter lists within the same scope.
 
 Overriding: Redefining a base class’s virtual function in a derived class with the same signature.
